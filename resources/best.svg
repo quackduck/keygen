@@ -68,6 +68,13 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc"
        inkscape:label="#path6240" />
     <path
+       id="warding_h"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.08414486;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.51009 50.095661 v 2.54 l -1.1007 0.1693 v 0.508 l 0.762 0.0847 v 0.6773 l -2.032 0.254 v -2.286 l 1.524 -0.3387 v -1.4393 l -1.524 -0.3387 v -3.9793 h 1.1853 v 0 l 0 3.302 l 0.8467 0.0847 l 0.3387 0.762"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:label="#path15879" />
+    <path
        id="warding_fm"
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.08414486;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 104.51009,54.095661 v -0.762 l 1.23312,-1.185335 v -0.423325 l -1.38726,-1.86267 v -3.21733 h -0.84774 v 2.87865 l 0.92484,1.10067 0.23117,0.42333 0.0771,0.50801 -0.0771,0.508 -0.23117,0.42334 -0.69363,1.01599 -0.23121,0.16934 V 55.027 h 1.4643 v -0.846654 z"
