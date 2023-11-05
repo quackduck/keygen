@@ -20,10 +20,12 @@ module best(bitting="",
     wardings_k = ["A",
                   "B",
                   "C",
+                  "H",
                   "FM"];
     wardings_v = [warding_a_points,
                   warding_b_points,
                   warding_c_points,
+                  warding_h_points,
                   warding_fm_points];
 
     outline_param = key_lkup(outlines_k, outlines_v, outline_name);
