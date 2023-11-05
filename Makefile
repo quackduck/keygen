@@ -1,7 +1,8 @@
 # Makefile for keygen
 
 # Executables
-POLY = PYTHONPATH=/usr/share/inkscape/extensions bin/paths2openscad.py
+# POLY = PYTHONPATH=/usr/share/inkscape/extensions bin/paths2openscad.py
+POLY = PYTHONPATH=/Applications/Inkscape.app/Contents/Resources/share/inkscape/extensions bin/paths2openscad.py
 
 SCAD_DIR = scad
 SVG_DIR = resources

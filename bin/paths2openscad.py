@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 
 # openscad.py
 
@@ -450,8 +450,8 @@ class OpenSCAD( inkex.Effect ):
 
         # Determine which polys contain which
 
-        contains     = [ [] for i in xrange( len( path ) ) ]
-        contained_by = [ [] for i in xrange( len( path ) ) ]
+        contains     = [ [] for i in range( len( path ) ) ]
+        contained_by = [ [] for i in range( len( path ) ) ]
 
         for i in range( 0, len( path ) ):
             for j in range( i + 1, len( path ) ):
